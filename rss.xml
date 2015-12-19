@@ -2,35 +2,42 @@
     <channel>
         <title><![CDATA[Barfwaffle]]></title>
         <description><![CDATA[Barfwaffle]]></description>
-        <link>https://thegrid.ai/barfwaffle/</link>
+        <link>http://barfwaffle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 09:43:36 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/barfwaffle/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 11:16:29 GMT</lastBuildDate>
+        <atom:link href="http://barfwaffle.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/571feaa0-304e-4a54-9845-0df4082d95f0.jpg">]]></description>
-            <link>https://thegrid.ai/barfwaffle/9a39284d-7b99-4bd7-8ef3-611ca68ecef1/index.html</link>
+            <link>http://barfwaffle.com/9a39284d-7b99-4bd7-8ef3-611ca68ecef1/index.html</link>
             <guid isPermaLink="false">9a39284d-7b99-4bd7-8ef3-611ca68ecef1</guid>
             <pubDate>Sat, 19 Dec 2015 09:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/766e8341-d65c-481d-bd77-3ab3d77c95cc.jpg">]]></description>
+            <link>http://barfwaffle.com/8029d241-f57f-46ec-9410-ec53545d3b7b/index.html</link>
+            <guid isPermaLink="false">8029d241-f57f-46ec-9410-ec53545d3b7b</guid>
+            <pubDate>Sat, 19 Dec 2015 11:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bde8fd9-6e24-4565-a1eb-ad3541080035.jpg">]]></description>
-            <link>https://thegrid.ai/barfwaffle/ec2aa3ed-2f19-4867-83ae-7dc577a21c7c/index.html</link>
+            <link>http://barfwaffle.com/ec2aa3ed-2f19-4867-83ae-7dc577a21c7c/index.html</link>
             <guid isPermaLink="false">ec2aa3ed-2f19-4867-83ae-7dc577a21c7c</guid>
             <pubDate>Sat, 19 Dec 2015 09:43:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07413228-c6fe-4a0e-aac9-186b42de65d4.jpg">]]></description>
-            <link>https://thegrid.ai/barfwaffle/a1c56b5b-4131-492d-ac6f-ed79eccaff15/index.html</link>
+            <link>http://barfwaffle.com/a1c56b5b-4131-492d-ac6f-ed79eccaff15/index.html</link>
             <guid isPermaLink="false">a1c56b5b-4131-492d-ac6f-ed79eccaff15</guid>
             <pubDate>Sat, 19 Dec 2015 09:18:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39aca0f8-5944-4082-8132-788832216f61.jpg">]]></description>
-            <link>https://thegrid.ai/barfwaffle/4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
+            <link>http://barfwaffle.com/4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
             <guid isPermaLink="false">4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e</guid>
             <pubDate>Sat, 19 Dec 2015 09:08:23 GMT</pubDate>
         </item>
