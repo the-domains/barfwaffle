@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Barfwaffle]]></title>
         <description><![CDATA[Barfwaffle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barfwaffle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 08:49:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 08:52:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barfwaffle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff0a670-b8c5-432a-8999-10c08bc022ed.jpg">]]></description>
+            <link>https://thegrid.ai/barfwaffle/4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
             <guid isPermaLink="false">4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e</guid>
-            <pubDate>Sat, 19 Dec 2015 08:49:40 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 08:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
