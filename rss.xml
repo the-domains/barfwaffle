@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Barfwaffle]]></title>
+        <description><![CDATA[Barfwaffle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 08:49:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e/index.html</link>
+            <guid isPermaLink="false">4f0d1334-b4c1-4f72-aaf1-ad4bf3ec541e</guid>
+            <pubDate>Sat, 19 Dec 2015 08:49:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
