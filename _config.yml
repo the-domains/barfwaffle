@@ -1,7 +1,7 @@
 name: Barfwaffle
 favicon: null
-layout_spectrum: 0.44695
-typography_spectrum: 0.7264456634875387
+layout_spectrum: 1
+typography_spectrum: 0.19995
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0
-  lightness: 0.14749695640057325
-  saturation: 0.2539501904975623
-  rhythmicContrast: 0.22768032434396446
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
