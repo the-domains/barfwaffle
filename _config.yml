@@ -1,0 +1,28 @@
+name: Barfwaffle
+favicon: null
+layout_spectrum: 0.9518136146944016
+typography_spectrum: 0.7264456634875387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5113599384203553
+  lightness: 0.14749695640057325
+  saturation: 0.2539501904975623
+  rhythmicContrast: 0.22768032434396446
+purpose: []
