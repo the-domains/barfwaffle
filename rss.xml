@@ -4,7 +4,7 @@
         <description><![CDATA[Barfwaffle]]></description>
         <link>http://barfwaffle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 05:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 05:53:08 GMT</lastBuildDate>
         <atom:link href="http://barfwaffle.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://barfwaffle.com/9a39284d-7b99-4bd7-8ef3-611ca68ecef1/index.html</link>
             <guid isPermaLink="false">9a39284d-7b99-4bd7-8ef3-611ca68ecef1</guid>
             <pubDate>Sat, 19 Dec 2015 09:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sandy]]></title>
+            <description><![CDATA[<article><h1>Sandy</h1><p>Subcontinent</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e34ed5c73313294889630963b107073acc23dec.jpg"></article>]]></description>
+            <link>http://barfwaffle.com/sandy/index.html</link>
+            <guid isPermaLink="false">ff303039-e80e-4c29-9ee7-332ed5e6c94c</guid>
+            <pubDate>Mon, 28 Dec 2015 05:52:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
