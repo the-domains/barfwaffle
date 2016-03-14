@@ -1,5 +1,8 @@
+name: Barfwaffle
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.212766
 title: Barfwaffle
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#000002'
     - '#D0D0CE'
     - '#64655C'
     - '#413103'
     - '#80A4C0'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Barfwaffle
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.212766
-layout_spectrum: 0
+purpose: []
