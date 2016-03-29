@@ -16,8 +16,8 @@ keywords:
   - 4evks3fpp
   - misfiteconomy
 description: 'We have a dependency economy - curious to see how this plays out in other sectors... http://fb.me/4eVks3FPp'
-datePublished: '2016-03-29T03:09:32.606Z'
-dateModified: '2016-03-29T03:08:32.993Z'
+datePublished: '2016-03-29T07:52:09.374Z'
+dateModified: '2016-03-29T07:52:06.580Z'
 author:
   - name: alexaclay
     url: 'http://twitter.com/alexaclay'
@@ -48,19 +48,21 @@ app_links:
     namespace: google
     type: android
 title: Copanyz Controolze contsoomptshun
+sourcePath: _posts/2016-03-29-copanyz-controolze-contsoomptshun.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-03-29-copanyz-controolze-contsoomptshun.md
-published: true
 url: copanyz-controolze-contsoomptshun/index.html
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4935a4e6-89a7-4915-87e8-636190f8ef4c.jpg)
+
 # Copanyz Controolze contsoomptshun
 
-> We have a dependency economy - curious to see how this plays out in other sectors&period;&period;&period; http&colon;&sol;&sol;fb&period;me&sol;4eVks3FPp
+> We have a dependency economy - curious to see how this plays out in other sectors... http://fb.me/4eVks3FPp
