@@ -16,8 +16,8 @@ keywords:
   - circle
   - assumptions
 description: 'Operational leadership is often under-appreciated compared with visionary leadership, or not even understood as leadership. I used to get quite annoyed about this. But now I realise the distinction itself is a false dichotomy, caused by seeing only a narrow view of the whole leadership picture.'
-datePublished: '2016-03-29T03:09:59.128Z'
-dateModified: '2016-03-29T03:07:54.038Z'
+datePublished: '2016-03-29T09:32:25.308Z'
+dateModified: '2016-03-29T07:53:21.581Z'
 author:
   - name: Alanna Krause
     url: 'https://medium.com/@alannallama'
@@ -56,14 +56,14 @@ app_links:
     namespace: google
     type: android
 title: 'Dreemz dat I Dooz Tingz indo Dem. '
+sourcePath: _posts/2016-03-29-dreemz-dat-i-dooz-tingz-indo-dem.md
+published: true
 authors: []
 publisher:
   name: Medium
   domain: t.co
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-sourcePath: _posts/2016-03-29-dreemz-dat-i-dooz-tingz-indo-dem.md
-published: true
 url: dreemz-dat-i-dooz-tingz-indo-dem/index.html
 _type: Article
 _context: 'http://schema.org'
