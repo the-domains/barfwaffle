@@ -15,9 +15,9 @@ keywords:
   - wisdomhackers
   - 4evks3fpp
   - misfiteconomy
-description: 'We have a dependency economy - curious to see how this plays out in other sectors... http://fb.me/4eVks3FPp'
-datePublished: '2016-03-29T07:52:09.374Z'
-dateModified: '2016-03-29T07:52:06.580Z'
+description: We have a dependency economy - curious to see how this plays out in other sectors...
+datePublished: '2016-03-29T09:32:33.422Z'
+dateModified: '2016-03-29T07:52:57.148Z'
 author:
   - name: alexaclay
     url: 'http://twitter.com/alexaclay'
